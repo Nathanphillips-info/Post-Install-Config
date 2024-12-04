@@ -58,7 +58,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/f9f03387-83c3-42c6-bd89-c230c800d961"/>
 </p>
 <p> 
 - Next, I configured help topics and added several, including a business-critical outage help topic, a personal computer issues help topic, an equipment reset help topic, a password reset help topic, and an "other" help topic. Help topics can be configured in the Admin Panel/Manage/Help topics. 
