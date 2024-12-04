@@ -47,7 +47,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/4d8ed493-f191-4ef9-b549-1b7d0a0f7986"/>
 </p>
 <p>
 - Next, configure users; in the Agent panel, click users and add new users. You can name them Karen and Ken. 
