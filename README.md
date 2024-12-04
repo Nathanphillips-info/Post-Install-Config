@@ -53,7 +53,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Next, configure users; in the Agent panel, click users and add new users. You can name them Karen and Ken. 
 </p>
 <p>
-- Next, We will configure SLAs. You can add A Sev-A, Sev-B, and Sev-C. Give each a different level, for instance Sev-A I gave a 1 hour response window in a 24/7 schedule. 
+- Next, We will configure SLAs. You can add A Sev-A, Sev-B, and Sev-C. Give each a different level; for instance, Sev-A, I gave a 1-hour response window in a 24/7 schedule. This can be configured in Admin Panel/Manage/SLA. 
 </p>
 <br />
 
@@ -61,6 +61,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p> 
-- Next, I configured help topics and added several, including a business-critical outage help topic, a personal computer issues help topic, an equipment reset help topic, a password reset help topic, and an "other" help topic. 
+- Next, I configured help topics and added several, including a business-critical outage help topic, a personal computer issues help topic, an equipment reset help topic, a password reset help topic, and an "other" help topic. Help topics can be configured in the Admin Panel/Manage/Help topics. 
 </p>
 <br />
