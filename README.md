@@ -64,3 +64,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Next, I configured help topics and added several, including a business-critical outage help topic, a personal computer issues help topic, an equipment reset help topic, a password reset help topic, and an "other" help topic. Help topics can be configured in the Admin Panel/Manage/Help topics. 
 </p>
 <br />
+<p>
+<img src="https://github.com/user-attachments/assets/326a31c0-f357-4328-ba0b-1ead7ff0bb0e"/>
+</p>
